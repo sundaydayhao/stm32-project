@@ -1,6 +1,0 @@
-/home/hao/projects/stm32-project/test/build/CMakeFiles/test.dir
-/home/hao/projects/stm32-project/test/build/CMakeFiles/edit_cache.dir
-/home/hao/projects/stm32-project/test/build/CMakeFiles/rebuild_cache.dir
-/home/hao/projects/stm32-project/test/build/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
-/home/hao/projects/stm32-project/test/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-/home/hao/projects/stm32-project/test/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
